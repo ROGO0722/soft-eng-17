@@ -1,0 +1,38 @@
+	Save Operatedbooks.Book
+		count: 0
+	added ID: 1
+	Save Operatedbooks.Book
+		count: 1
+	added ID: 2
+	Save Operatedbooks.Book
+		count: 2
+	1
+	2
+	Total models: 2
+	Save Operatedbooks.Book
+		count: 2
+	added ID: 3
+	Save Operatedbooks.Book
+		count: 3
+	1
+	2
+	3
+	Total models: 3
+	recorded ID: 1 destroyed
+	3
+	Total models: 1
+	Size: 1
+	
+Save Operatedbooks.Book
+	
+	count: 3
+	
+added ID: 4
+	
+3
+	
+4
+	
+Total models: 2
+	
+Size: 2
